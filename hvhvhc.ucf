@@ -1,0 +1,26 @@
+#NET "A[0]" LOC = P78;
+#NET "A[1]" LOC = P77;
+#NET "B[0]" LOC = P76;
+#NET "B[1]" LOC = P74;
+#NET "S[0]" LOC = P172;
+#NET "S[1]" LOC = P175;
+#NET "C" LOC = P176;
+NET "A(0)" LOC = P78;
+NET "A(1)" LOC = P77;
+NET "A(2)" LOC = P76;
+
+NET "A(3)" LOC = P74;
+
+NET "B(0)" LOC = P97;
+
+NET "B(1)" LOC = P96;
+NET "B(2)" LOC = P95;
+NET "B(3)" LOC = P94;
+
+NET "S(0)" LOC = P172;
+NET "S(1)" LOC = P175;
+NET "S(2)" LOC = P176;
+NET "S(3)" LOC = P178;
+
+NET "C_in" LOC = P72;
+NET "C_out" LOC = P183;

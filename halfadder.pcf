@@ -1,0 +1,11 @@
+//! **************************************************************************
+// Written by: Map O.40d on Sun Oct 28 15:13:25 2018
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "A" LOCATE = SITE "P78" LEVEL 1;
+COMP "B" LOCATE = SITE "P77" LEVEL 1;
+COMP "C" LOCATE = SITE "P175" LEVEL 1;
+COMP "S" LOCATE = SITE "P172" LEVEL 1;
+SCHEMATIC END;
+

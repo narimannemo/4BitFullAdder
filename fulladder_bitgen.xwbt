@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\arianvanarimanjalase2\fulladder.ncd
+OUTFILE=D:\arianvanarimanjalase2\fulladder.bit
+FAMILY=Spartan3
+PART=xc3s400-5pq208
+WORKINGDIR=D:\arianvanarimanjalase2
+LICENSE=WebPack
+USER_INFO=__0_0_0

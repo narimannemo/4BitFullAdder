@@ -1,0 +1,8 @@
+EN twobf NULL D:/arianvanarimanjalase2/TWOBF.vhd sub00/vhpl04 1540770840
+EN halfadder NULL D:/arianvanarimanjalase2/halfadder.vhd sub00/vhpl00 1540770836
+EN fulladder NULL D:/arianvanarimanjalase2/fulladder.vhd sub00/vhpl02 1540770838
+AR twobf behavioral D:/arianvanarimanjalase2/TWOBF.vhd sub00/vhpl05 1540770841
+AR fourbf behavioral D:/arianvanarimanjalase2/FOURBF.vhd sub00/vhpl07 1540770368
+EN fourbf NULL D:/arianvanarimanjalase2/FOURBF.vhd sub00/vhpl06 1540770842
+AR fulladder behavioral D:/arianvanarimanjalase2/fulladder.vhd sub00/vhpl03 1540770839
+AR halfadder behavioral D:/arianvanarimanjalase2/halfadder.vhd sub00/vhpl01 1540770837

@@ -1,0 +1,15 @@
+//! **************************************************************************
+// Written by: Map O.40d on Sun Oct 28 15:58:01 2018
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "C_out" LOCATE = SITE "P176" LEVEL 1;
+COMP "A<0>" LOCATE = SITE "P78" LEVEL 1;
+COMP "A<1>" LOCATE = SITE "P77" LEVEL 1;
+COMP "B<0>" LOCATE = SITE "P76" LEVEL 1;
+COMP "B<1>" LOCATE = SITE "P74" LEVEL 1;
+COMP "C_in" LOCATE = SITE "P72" LEVEL 1;
+COMP "S<0>" LOCATE = SITE "P172" LEVEL 1;
+COMP "S<1>" LOCATE = SITE "P175" LEVEL 1;
+SCHEMATIC END;
+

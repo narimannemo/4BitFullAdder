@@ -1,0 +1,22 @@
+V3 15
+FL D:/arianvanarimanjalase2/FOURBF.vhd 2018/10/28.16:45:59 O.40d
+EN work/FOURBF 1540770367 FL D:/arianvanarimanjalase2/FOURBF.vhd \
+      PB ieee/std_logic_1164 1296775758
+AR work/FOURBF/Behavioral 1540770368 \
+      FL D:/arianvanarimanjalase2/FOURBF.vhd EN work/FOURBF 1540770367 CP TWOBF
+FL D:/arianvanarimanjalase2/fulladder.vhd 2018/10/28.15:28:40 O.40d
+EN work/fulladder 1540770838 FL D:/arianvanarimanjalase2/fulladder.vhd \
+      PB ieee/std_logic_1164 1296775758
+AR work/fulladder/Behavioral 1540770839 \
+      FL D:/arianvanarimanjalase2/fulladder.vhd EN work/fulladder 1540770838 \
+      CP halfadder
+FL D:/arianvanarimanjalase2/halfadder.vhd 2018/10/28.16:44:44 O.40d
+EN work/halfadder 1540770836 FL D:/arianvanarimanjalase2/halfadder.vhd \
+      PB ieee/std_logic_1164 1296775758
+AR work/halfadder/Behavioral 1540770837 \
+      FL D:/arianvanarimanjalase2/halfadder.vhd EN work/halfadder 1540770836
+FL D:/arianvanarimanjalase2/TWOBF.vhd 2018/10/28.15:57:50 O.40d
+EN work/TWOBF 1540770840 FL D:/arianvanarimanjalase2/TWOBF.vhd \
+      PB ieee/std_logic_1164 1296775758
+AR work/TWOBF/Behavioral 1540770841 \
+      FL D:/arianvanarimanjalase2/TWOBF.vhd EN work/TWOBF 1540770840 CP fulladder

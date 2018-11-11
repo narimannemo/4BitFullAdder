@@ -1,0 +1,4 @@
+vhdl work "halfadder.vhd"
+vhdl work "fulladder.vhd"
+vhdl work "TWOBF.vhd"
+vhdl work "FOURBF.vhd"

@@ -1,0 +1,32 @@
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc hvhvhc.ucf -p xc3s400-pq208-5 FOURBF.ngc FOURBF.ngd  
+map -intstyle ise -p xc3s400-pq208-5 -cm area -ir off -pr off -c 100 -o FOURBF_map.ncd FOURBF.ngd FOURBF.pcf 
+par -w -intstyle ise -ol high -t 1 FOURBF_map.ncd FOURBF.ncd FOURBF.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml FOURBF.twx FOURBF.ncd -o FOURBF.twr FOURBF.pcf -ucf hvhvhc.ucf 
+bitgen -intstyle ise -f FOURBF.ut FOURBF.ncd 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc hvhvhc.ucf -p xc3s400-pq208-5 FOURBF.ngc FOURBF.ngd  
+map -intstyle ise -p xc3s400-pq208-5 -cm area -ir off -pr off -c 100 -o FOURBF_map.ncd FOURBF.ngd FOURBF.pcf 
+par -w -intstyle ise -ol high -t 1 FOURBF_map.ncd FOURBF.ncd FOURBF.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml FOURBF.twx FOURBF.ncd -o FOURBF.twr FOURBF.pcf -ucf hvhvhc.ucf 
+bitgen -intstyle ise -f FOURBF.ut FOURBF.ncd 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc hvhvhc.ucf -p xc3s400-pq208-5 FOURBF.ngc FOURBF.ngd  
+map -intstyle ise -p xc3s400-pq208-5 -cm area -ir off -pr off -c 100 -o FOURBF_map.ncd FOURBF.ngd FOURBF.pcf 
+par -w -intstyle ise -ol high -t 1 FOURBF_map.ncd FOURBF.ncd FOURBF.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml FOURBF.twx FOURBF.ncd -o FOURBF.twr FOURBF.pcf -ucf hvhvhc.ucf 
+bitgen -intstyle ise -f FOURBF.ut FOURBF.ncd 
+xst -intstyle ise -ifn "D:/arianvanarimanjalase2/FOURBF.xst" -ofn "D:/arianvanarimanjalase2/FOURBF.syr" 
